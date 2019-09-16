@@ -8,5 +8,4 @@ class Post extends Model
 {
    // protected $fillable = ['title', 'body']; // whitelist
     // protected $guarded = ['title', 'body']; // blacklist
-    //test change
 }
