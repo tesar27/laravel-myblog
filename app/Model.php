@@ -8,5 +8,9 @@ class Model extends Eloquent
 {
     protected $guarded = [];
    // protected $fillable = ['title', 'body']; // whitelist
+<<<<<<< HEAD
    
+=======
+    
+>>>>>>> old_a/master
 }
